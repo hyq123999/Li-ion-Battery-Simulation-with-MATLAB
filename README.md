@@ -1,5 +1,8 @@
 # Li-ion-Battery-Simulation-with-MATLAB
-This is a numerical solver based on finite difference method for pseudo two-dimensional model. And the folder [/images](./images) contains a demo (the input parameters are *not real cases*, you may treat it as a toy example).<br>
+This is a numerical solver based on finite difference method for pseudo two-dimensional model. 
+
+And the folder [/images](./images) contains a demo (the input parameters are *not real cases*, you may treat it as a toy example).
+
 Note that it currently has following limitations to be improved:
 - work for only *small rates* due to used simplifications
 - consider only *isothermal* conditions 
